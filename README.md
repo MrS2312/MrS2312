@@ -39,7 +39,7 @@
      <li>Pagina realizada para hackaton "Hack the Ocean"</li><br>
      <a href="https://jalilmartinez.github.io/T-Ocean/" target="_blank">Hack the Ocean</a><br><br>
      <li>Paginas Web con HTML y CSS:</li><br>
-     <a href="https://github.com/MrS2312/pageprob/find/main">Pagina de diseño de una tienda</a><br>
+     <a href="https://github.com/MrS2312/pageprob">Pagina de diseño de una tienda</a><br>
      <a href="https://github.com/MrS2312/FRONT-STORE">Front Store</a><br>
      <a href="https://github.com/MrS2312/MP3-Jonathan">MP3-Jonathan</a><br><br>
      <li>Programa con Python y Machine Learning:</li><br>
